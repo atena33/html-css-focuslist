@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+.centratura{
+  text-align: center;
+}
+
+.container {
+  padding-top: 100px;
+}
+.immaginine a {
+  text-decoration: none;
+  color: gray;
+  position: relative;
+  top:30px;
+}
+
+.immaginine {
+  position: relative;
+  top:30px;
+}
+
+.immaginine h6 {
+  display: inline-block;
+  position: relative;
+  max-width: 50px;
+  top: -30px;
+
+}
+
+.titoli {
+  color:white;
+  line-height: 30px;
+}
+
+ h1 {
+   padding-bottom: 50px;
+
+ }
+
+header {
+  background:linear-gradient(30deg, #225393, #002351);
+
+}
+
+/* Qui inizia il primo blocco */
+ .centratura p {
+   line-height: 20px;
+   padding-top: 50px;
+   padding-bottom: 50px;
+  }
+
+.align-right {
+  padding-top: 100px;
+  text-align: right;
+}
+
+.align-left {
+  padding-top: 100px;
+  text-align: left;
+}
+
+#gray {
+  background-color: #F5F5F5;
+  padding-bottom: 100px;
+}
+
+#gray h3 {
+  color:blue;
+}
+
+#gray p {
+  color: gray;
+}
+
+/* Qui inizia il secondo blocco */
+
+#blue {
+  background: linear-gradient(30deg, #225393, #002351);
+
+}
+
+#blue h2, #blue h3, #blue p {
+  color: white;
+
+}
+
+#blue h3 {
+  padding-top: 50px;
+}
+
+#blue p {
+  padding-right: 30px;
+}
+
+/* Qui inizia il footer */
+
+
+
+footer h6{
+  color: #7393c1;
+  padding-bottom: 30px;
+
+}
+
+footer ul li{
+  color: white;
+
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+footer ul {
+  padding-bottom: 100px;
+}
